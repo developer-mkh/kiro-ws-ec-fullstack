@@ -29,3 +29,4 @@ dist-ssr
 # Backend
 backend/.venv/
 backend/__pycache__/
+backend/tests/__pycache__/
